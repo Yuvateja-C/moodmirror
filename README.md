@@ -1,4 +1,4 @@
-# 🌙 MoodMirror – Your Mind in One Screen
+9# 🌙 MoodMirror – Your Mind in One Screen
 
 MoodMirror is a simple yet powerful AI-inspired web application that reflects your emotional state based on what you type.
 
@@ -149,4 +149,3 @@ This project is open-source and free to use.
 ## 👨‍💻 Author
 
 Built with creativity and intent to stand out.
-v
